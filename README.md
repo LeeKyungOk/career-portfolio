@@ -52,7 +52,7 @@
 
 ## 문의
 
-- 📧 Email: [sunnynhoya@gmail.com](mailto:sunnynhoya@gmail.com)  
+- 📧 Email: [leekyungok2023@gmail.com](mailto:leekyungok2023@gmail.com)  
 - 🔗 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/leekyungok/)  
 
 ---
@@ -85,7 +85,7 @@ I am a financial sector specialist and full-stack web developer with extensive e
 | Year       | SI/SM         | Project Name                          | Domain         | Technologies Used                      |
 |------------|---------------|---------------------------------------|----------------|----------------------------------------|
 | 2005.07~12 | SI            | Woori Bank - WMS                     | Financial Planning | Java, JSP, Oracle                     |
-| 2006       | SI            | PCA Life - SFA                       | Sales Support  | Java, Sybase, OZ                      |
+|            | SI            | PCA Life - SFA                       | Sales Support  | Java, Sybase, OZ                      |
 |            | SI            | Daehan Life - Financial Planning     | Financial Planning | Java, MyPlatform, Oracle, Crystal Reports |
 |            | SI            | Kookmin Bank - eCRM Product Suggestion | Products      | Java, JSP, Oracle, Blaze Advisor      |
 |            | SI            | Hana Bank - Retirement Planning System | Retirement Planning | Java, JSP, Oracle, OZ                 |
@@ -97,7 +97,7 @@ I am a financial sector specialist and full-stack web developer with extensive e
 |            | SI            | Dongyang Securities - Next Generation   | Derivatives   | Java, XFrame, Oracle                  |
 |            | SI            | Kookmin Bank - Card HQ               | Merchant Management    | Java, JSP, Oracle                     |
 |            | SI            | Hyosung Capital - Next Generation    | Contract/Collateral   | Java, XFrame, Oracle, OZ                           |
-| 2018.10~12 | SM            | Hyosung Capital - Core System        | Post-Management   | Java, XFrame, Oracle, OZ                           |
+|            | SM            | Hyosung Capital - Core System        | Post-Management   | Java, XFrame, Oracle, OZ                           |
 |            | SI            | Kona Money - Prepaid Card Merchant System 2nd Phase   | Merchant Management    | Java, HTML5, Oracle                           |
 |            | SM            | AIA Life Insurance - Glocal Test     | Outbound       | Java, WebSquare, Oracle                       |
 | 2022.01~진행중| SM         | KB Capital - Core System             | Bonds          | Java, XFrame, Oracle, OZ                           |
@@ -111,7 +111,7 @@ This repository is designed to showcase my professional journey as a web develop
 ## Contact
 
 For more information or collaboration opportunities:
-- 📧 Email: [sunnynhoya@gmail.com](mailto:sunnynhoya@gmail.com)  
+- 📧 Email: [leekyungok2023@gmail.com](mailto:leekyungok2023@gmail.com)  
 - 🔗 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/leekyungok/)  
 
 
