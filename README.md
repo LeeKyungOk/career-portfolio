@@ -7,7 +7,7 @@
 
 ### 전문 요약
 
-👨‍💻 **저는 누구인가요?**  
+👨‍💻 **저는...**  
 저는 금융권 전문 개발자이자 풀스택 웹 개발자로서 광범위한 자바 기반 개발 경험을 보유하고 있습니다. 2005년에 경력을 시작한 이후 주요 금융 기관을 위한 고품질 솔루션을 제공하며 개발 및 시스템 설계에 적극적으로 참여해 왔습니다.
 
 🌟 **주요 하이라이트**  
@@ -28,7 +28,7 @@
 | Year       | SI/SM         | Project Name                          | Domain         | Technologies Used                      |
 |------------|---------------|---------------------------------------|----------------|----------------------------------------|
 | 2005.07~12 | SI            | 외환은행 - WMS                        | 재무설계       | Java, JSP, Oracle                     |
-| 2006       | SI            | PCA생명 - SFA                         | 영업지원       | Java, Sybase, OZ                      |
+|            | SI            | PCA생명 - SFA                         | 영업지원       | Java, Sybase, OZ                      |
 |            | SI            | 대한생명 - 신중한재무설계             | 재무설계       | Java, MyPlatform, Oracle, Crystal Reports |
 |            | SI            | 국민은행 - eCRM 상품추천              | 상품           | Java, JSP, Oracle, Blaze Advisor      |
 |            | SI            | 하나은행 - 은퇴설계시스템             | 은퇴설계       | Java, JSP, Oracle, OZ                 |
@@ -40,7 +40,7 @@
 |            | SI            | 동양종합금융증권 - 차세대             | 파생상품       | Java, XFrame, Oracle                  |
 |            | SI            | 국민은행 - 카드본사                   | 가맹점관리     | Java, JSP, Oracle                     |
 |            | SI            | 효성캐피탈 - 차세대                   | 계약/담보      | Java, XFrame, Oracle, OZ                           |
-| 2018.10~12 | SM            | 효성캐피탈 - 계정계 시스템            | 사후관리       | Java, XFrame, Oracle, OZ                           |
+|            | SM            | 효성캐피탈 - 계정계 시스템            | 사후관리       | Java, XFrame, Oracle, OZ                           |
 |            | SI            | 코나머니 - 선불카드 가맹점시스템      | 가맹점관리     | Java, HTML5, Oracle                            |
 |            | SM            | AIA생명 - 글로컬 테스트               | 아웃바운드     | Java, WebSquare, Oracle                       |
 | 2022.01~진행중| SM         | KB캐피탈 - 계정계 시스템              | 채권           | Java, XFrame, Oracle, OZ                           |
