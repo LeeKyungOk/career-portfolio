@@ -23,7 +23,7 @@
 - 현재까지 현직 개발자 및 시스템 설계자로 활동 중.
 
 
-## Featured Projects
+## 주요 프로젝트
 
 | Year       | SI/SM         | Project Name                          | Domain         | Technologies Used                      |
 |------------|---------------|---------------------------------------|----------------|----------------------------------------|
@@ -44,6 +44,26 @@
 |            | SI            | 코나머니 - 선불카드 가맹점시스템      | 가맹점관리     | Java, HTML5, Oracle                            |
 |            | SM            | AIA생명 - 글로컬 테스트               | 아웃바운드     | Java, WebSquare, Oracle                       |
 | 2022.01~진행중| SM         | KB캐피탈 - 계정계 시스템              | 채권           | Java, XFrame, Oracle, OZ                           |
+
+## 컨텐츠
+
+- 01_SI_ExchangeBank_WMS.md
+- 02_SI_PCALife_SFA.md
+- 03_SI_DaehanLife_Financial_Planning.md 
+- 04_SI_KookminBank_eCRM_Product_Suggestion.md 
+- 05_SI_HanaBank_Retirement_Planning_System.md
+- 06_SI_DongyangLife_Next_Generation.md 
+- 07_SI_KookminBank_Next_Generation_Internet_Banking.md 
+- 08_SI_HanaBank_Internet_Banking_Renewal.md 
+- 09_SI_LotteInsurance_Financial_Planning_System.md 
+- 10_SI_KookminBank_Internet_Banking_Renewal.md 
+- 11_SI_DongyangSecurities_Next_Generation.md 
+- 12_SI_KookminBank_Card_HQ.md 
+- 13_SI_HyosungCapital_Next_Generation.md 
+- 14_SM_HyosungCapital_Core_System.md 
+- 15_SI_KonaMoney_Prepaid_Card_Merchant_System.md 
+- 16_SM_AIALifeInsurance_Glocal_Test.md 
+- 17_SM_KBCapital_Core_System.md 
 
 ## 활용
 
@@ -84,7 +104,7 @@ I am a financial sector specialist and full-stack web developer with extensive e
 
 | Year       | SI/SM         | Project Name                          | Domain         | Technologies Used                      |
 |------------|---------------|---------------------------------------|----------------|----------------------------------------|
-| 2005.07~12 | SI            | Woori Bank - WMS                     | Financial Planning | Java, JSP, Oracle                     |
+| 2005.07~12 | SI            | Exchange Bank - WMS                     | Financial Planning | Java, JSP, Oracle                     |
 |            | SI            | PCA Life - SFA                       | Sales Support  | Java, Sybase, OZ                      |
 |            | SI            | Daehan Life - Financial Planning     | Financial Planning | Java, MyPlatform, Oracle, Crystal Reports |
 |            | SI            | Kookmin Bank - eCRM Product Suggestion | Products      | Java, JSP, Oracle, Blaze Advisor      |
